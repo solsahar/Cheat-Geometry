@@ -1,4 +1,4 @@
-#Ceating Geometry Source Code
+# Ceating Geometry Source Code
 
 This is a program made for the TI-83/TI-84 calculators. It was released in 2002 by Vlad.
 
